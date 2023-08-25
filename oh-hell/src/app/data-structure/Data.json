@@ -1,0 +1,36 @@
+[
+    {
+        "id": 0,
+        "name": "player 1",
+        "rounds": [
+            {
+                "round": "8d",
+                "bid": 4,
+                "tricks": 4
+            },
+            {
+                "round": "7d",
+                "bid": 4,
+                "tricks": 4
+            }
+        ],
+        "score": 100
+    },
+    {
+        "id": 1,
+        "name": "player 2",
+        "rounds": [
+            {
+                "round": "8d",
+                "bid": 3,
+                "tricks": 2
+            },
+            {
+                "round": "7d",
+                "bid": 1,
+                "tricks": 2
+            }
+        ],
+        "score": 62
+    }
+]
